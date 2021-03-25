@@ -1,0 +1,1 @@
+writes the filepath of every program in your taskbar to a txt file in C:\Scripts (create dir manually)
